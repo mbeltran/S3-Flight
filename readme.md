@@ -1,9 +1,8 @@
 # S3 Flight Software
 
 ## How to install the Arduino IDE on Windows
-##(update with git instructions for working from local repos)
 
-0. Go to the Flight SW repository release page ([link](https://github.com/mbeltran/S3-Flight))
+0. Download Arduino IDE from [here](https://www.arduino.cc/en/software)
 0. TBD - need to add "how to download + run arduino IDE" detail for Windows Version
 0. If on Windows, you will need to install a driver to connect to the board:
     - Open [this link](https://github.com/adafruit/Adafruit_Windows_Drivers/releases) in a browser
@@ -48,8 +47,9 @@
 
 
 ## How to get the latest Quest software on Linux
+##(update with git instructions for working from local repos)
 
-0. Go to the Flight SW repository release page ([link](https://github.com/howellivy/S3-Flight))
+0. Go to the Flight SW repository release page ([link](https://github.com/mbeltran/S3-Flight))
 0. Download the latest "Source code (zip)"
 0. Unzip the folder
 
